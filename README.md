@@ -1,8 +1,46 @@
-# React + Vite
+# Password Generator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## This app generates random password according the length. 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Prerequisites
+
+This project requires NodeJS (version 8 or later) and NPM.
+[Node](http://nodejs.org/) and [NPM](https://npmjs.org/) are really easy to install.
+To make sure you have them available on your machine,
+try running the following command.
+
+```sh
+$ npm -v && node -v
+6.4.1
+v8.16.0
+```
+
+## Installation
+
+**BEFORE YOU INSTALL:** please read the [prerequisites](#prerequisites)
+
+Start with cloning this repo on your local machine:
+
+```sh
+$ git clone https://github.com/ORG/PROJECT.git
+$ cd PROJECT
+```
+
+To install and set up the library, run:
+
+```sh
+$ npm install -S myLib
+```
+
+Or if you prefer using Yarn:
+
+```sh
+$ yarn add --dev myLib
+```
+
+### Serving the app
+
+```sh
+$ npm run dev
+```
