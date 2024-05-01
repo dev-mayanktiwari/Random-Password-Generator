@@ -6,7 +6,10 @@
 ## Prerequisites
 
 This project requires NodeJS (version 8 or later) and NPM.
+
 [Node](http://nodejs.org/) and [NPM](https://npmjs.org/) are really easy to install.
+
+
 To make sure you have them available on your machine,
 try running the following command.
 
@@ -23,20 +26,14 @@ v8.16.0
 Start with cloning this repo on your local machine:
 
 ```sh
-$ git clone https://github.com/ORG/PROJECT.git
-$ cd PROJECT
+$ git clone https://github.com/dev-mayanktiwari/Random-Password-Generator.git
+$ cd Random-Password-Generator
 ```
 
 To install and set up the library, run:
 
 ```sh
-$ npm install -S myLib
-```
-
-Or if you prefer using Yarn:
-
-```sh
-$ yarn add --dev myLib
+$ npm install 
 ```
 
 ### Serving the app
